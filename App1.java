@@ -3,8 +3,11 @@ public class App1 {
         
         //add git
         
+        testHelloWorld();
 
+    }
 
-        
+    public static void testHelloWorld(){
+        System.out.println("Hello World");
     }
 }
